@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/Debug/libeunomia.a CMakeFiles/eunomia.dir/src/eunomia_bpf.cpp.o CMakeFiles/eunomia.dir/src/export_events.cpp.o CMakeFiles/eunomia.dir/src/eunomia_meta.cpp.o CMakeFiles/eunomia.dir/src/section_data.cpp.o CMakeFiles/eunomia.dir/src/attach.cpp.o CMakeFiles/eunomia.dir/src/arg_parser.cpp.o CMakeFiles/eunomia.dir/src/trace_helpers.c.o CMakeFiles/eunomia.dir/src/uprobe_helpers.c.o CMakeFiles/eunomia.dir/src/btf_helpers.c.o
+/usr/bin/ranlib lib/Debug/libeunomia.a

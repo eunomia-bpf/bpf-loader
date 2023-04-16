@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/CMakeFiles/libbpf-eunomia"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/CMakeFiles/libbpf-eunomia.rule"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/CMakeFiles/libbpf-eunomia-complete.rule"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-build.rule"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-configure.rule"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-download.rule"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-install.rule"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-mkdir.rule"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-patch.rule"
+		},
+		{
+			"file" : "/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libbpf-eunomia"
+		],
+		"name" : "libbpf-eunomia"
+	}
+}

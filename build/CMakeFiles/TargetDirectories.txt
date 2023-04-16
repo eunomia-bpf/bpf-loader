@@ -1,0 +1,9 @@
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/eunomia.dir
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/libbpf-eunomia.dir
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/libbpf-eunomia-build.dir
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/edit_cache.dir
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/rebuild_cache.dir
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/list_install_components.dir
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/install.dir
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/install/local.dir
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/install/strip.dir

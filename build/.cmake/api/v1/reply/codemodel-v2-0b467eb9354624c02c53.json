@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-db1a53c87e56bc79947c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "eunomia",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "eunomia::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eunomia-Debug-2c51206be7463d7a1b25.json",
+					"name" : "eunomia",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libbpf-eunomia::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libbpf-eunomia-Debug-ca4425baeaac0276747b.json",
+					"name" : "libbpf-eunomia",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libbpf-eunomia-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libbpf-eunomia-build-Debug-394df261531447b53cb0.json",
+					"name" : "libbpf-eunomia-build",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/eunomia-bpf/bpf-loader/build",
+		"source" : "/root/eunomia-bpf/bpf-loader"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

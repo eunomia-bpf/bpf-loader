@@ -1,0 +1,13 @@
+# Target labels
+ libbpf-eunomia
+# Source files and their labels
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/libbpf-eunomia
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/libbpf-eunomia.rule
+/root/eunomia-bpf/bpf-loader/build/CMakeFiles/libbpf-eunomia-complete.rule
+/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-build.rule
+/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-configure.rule
+/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-download.rule
+/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-install.rule
+/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-mkdir.rule
+/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-patch.rule
+/root/eunomia-bpf/bpf-loader/build/libbpf/src/libbpf-eunomia-stamp/libbpf-eunomia-update.rule
